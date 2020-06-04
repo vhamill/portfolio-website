@@ -2,6 +2,9 @@
   "homepage": "https://vhamill.github.io/portfolio-website",
   "name": "portfolio-site",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.16.1"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
