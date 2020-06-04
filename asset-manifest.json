@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e5955103.chunk.css",
-    "main.js": "/portfolio/static/js/main.8674e37a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8674e37a.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.ae0f04cd.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.ae0f04cd.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/portfolio/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.2980c604.chunk.js": "/portfolio/static/js/2.2980c604.chunk.js",
-    "static/js/2.2980c604.chunk.js.map": "/portfolio/static/js/2.2980c604.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.6f55b1359a5e3517ea157112f5b1a27c.js": "/portfolio/precache-manifest.6f55b1359a5e3517ea157112f5b1a27c.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/portfolio/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.e5955103.chunk.css.map": "/portfolio/static/css/main.e5955103.chunk.css.map",
-    "static/js/2.2980c604.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2980c604.chunk.js.LICENSE.txt",
-    "static/media/lighthouse_screenshot.PNG": "/portfolio/static/media/lighthouse_screenshot.9d29d7df.PNG",
-    "static/media/lootgame_screenshot.PNG": "/portfolio/static/media/lootgame_screenshot.5c5a2f60.PNG",
-    "static/media/profilepicture.jpg": "/portfolio/static/media/profilepicture.b0b91329.jpg",
-    "static/media/savage_six_screenshot.PNG": "/portfolio/static/media/savage_six_screenshot.3ade5dbc.PNG"
+    "main.css": "/portfolio-website/static/css/main.e5955103.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.b162c046.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.b162c046.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.dee7cfc4.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.dee7cfc4.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/portfolio-website/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2980c604.chunk.js": "/portfolio-website/static/js/2.2980c604.chunk.js",
+    "static/js/2.2980c604.chunk.js.map": "/portfolio-website/static/js/2.2980c604.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "precache-manifest.3bcab7a04539c37f8766e2d5186990b1.js": "/portfolio-website/precache-manifest.3bcab7a04539c37f8766e2d5186990b1.js",
+    "service-worker.js": "/portfolio-website/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/portfolio-website/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.e5955103.chunk.css.map": "/portfolio-website/static/css/main.e5955103.chunk.css.map",
+    "static/js/2.2980c604.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.2980c604.chunk.js.LICENSE.txt",
+    "static/media/lighthouse_screenshot.PNG": "/portfolio-website/static/media/lighthouse_screenshot.9d29d7df.PNG",
+    "static/media/lootgame_screenshot.PNG": "/portfolio-website/static/media/lootgame_screenshot.5c5a2f60.PNG",
+    "static/media/profilepicture.jpg": "/portfolio-website/static/media/profilepicture.b0b91329.jpg",
+    "static/media/savage_six_screenshot.PNG": "/portfolio-website/static/media/savage_six_screenshot.3ade5dbc.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae0f04cd.js",
+    "static/js/runtime-main.dee7cfc4.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.2980c604.chunk.js",
     "static/css/main.e5955103.chunk.css",
-    "static/js/main.8674e37a.chunk.js"
+    "static/js/main.b162c046.chunk.js"
   ]
 }
