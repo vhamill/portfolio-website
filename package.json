@@ -6,7 +6,6 @@
     "node": "12.16.1",
     "npm": "6.13.4"
   },
-  "type": "module",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
