@@ -17,8 +17,8 @@ class CarouselContainer extends React.Component {
             items: [
                 {
                     id: 0,
-                    title: 'Lighthouse Android App',
-                    subTitle: 'Emergency "Notify a Friend" app sldjfklasdjf jdkalsjfkdlsjf jdsklfjdsalkjfsklj jkdsal',
+                    title: 'Emergency "Notify a Friend" Android App',
+                    subTitle: 'Developed an Android application to be used by people in unsafe social situations as an emergency notify-a-friend app, utilizing Google location services, Google Maps API, and Twilio automated call services. Full stack experience including Java and Kotlin front-end as well as Python back-end.',
                     imgSrc: lighthouse_screenshot,
                     link: 'https://drive.google.com/file/d/1z6rYg8aJAKEY-BwjOG0sSkB6M2aCkHVc/view?usp=sharing',
                     selected: false
@@ -26,7 +26,7 @@ class CarouselContainer extends React.Component {
                 {
                     id: 1,
                     title: 'NSMLTG: A 3D Open World Video Game',
-                    subTitle: '3D video game made in Unity',
+                    subTitle: 'Developed a 3D open world action-adventure video game with complex character AI and physics. Implemented in Unity and C#. Utilized Agile project management with Azure DevOps to delegate tasks and manage sprints.',
                     imgSrc: lootgame_screenshot,
                     link: 'https://drive.google.com/file/d/1UwG2QWnPJrbY-JG8b-IYgr1c1Kr3nk6h/view?usp=sharing',
                     selected: false
@@ -34,7 +34,7 @@ class CarouselContainer extends React.Component {
                 {
                     id: 2,
                     title: 'Savage Six Site',
-                    subTitle: 'Website developed for a local client',
+                    subTitle: 'Built a social networking web application in Ruby on Rails to be used by an outfit in the Texas A&M Corps of Cadets. Contributed to full lifecycle Agile project from requirements analysis through multiple test-driven deployments with consistent communication with client.',
                     imgSrc: savage_six_screenshot,
                     link: 'https://vimeo.com/333180339',
                     selected: false
@@ -76,7 +76,7 @@ class CarouselContainer extends React.Component {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <Carousel activeIndex={this.state.index} onSelect={handleSelect}>
+                        <Carousel className="carouselColor" activeIndex={this.state.index} onSelect={handleSelect}>
                             <Carousel.Item> 
                                 <Card item={this.state.items[0]}/> 
                             </Carousel.Item>

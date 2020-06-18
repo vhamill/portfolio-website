@@ -61,3 +61,7 @@ code {
   word-wrap: break-word;
   width: 400px;
 }
+
+.carouselColor {
+  background-color: rgba(255, 86, 86, 0.219);
+}
