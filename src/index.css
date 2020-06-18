@@ -29,6 +29,7 @@ code {
   width: 300px;
   height: 300px;
   margin-bottom: 40px;
+  margin-right: 40px;
   box-shadow: 0px 0px 3px 1px #ccc;
 }
 
@@ -62,6 +63,19 @@ code {
   width: 400px;
 }
 
-.carouselColor {
-  background-color: rgba(255, 86, 86, 0.219);
+.carousel-color {
+  background-image: radial-gradient(rgba(255, 74, 74, 0.932), rgb(253, 110, 110, 0.692), rgba(255, 194, 194, 0.61));
+  border-style: groove;
+}
+
+.about-me-box {
+  /* background-color: rgb(110, 0, 0); */
+  background-image: radial-gradient(rgb(211, 0, 0), rgb(170, 26, 1), rgba(129, 41, 0, 0.911));
+  border-style: groove;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-top: 40px;
+  padding-left: 120px;
+  padding-right: 120px;
+  color: white;
 }

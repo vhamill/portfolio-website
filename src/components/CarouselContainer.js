@@ -76,7 +76,7 @@ class CarouselContainer extends React.Component {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <Carousel className="carouselColor" activeIndex={this.state.index} onSelect={handleSelect}>
+                        <Carousel className="carousel-color" activeIndex={this.state.index} onSelect={handleSelect}>
                             <Carousel.Item> 
                                 <Card item={this.state.items[0]}/> 
                             </Carousel.Item>
