@@ -13,7 +13,7 @@ function AboutPage(props){
             <Hero title={props.title} />
             <div className="about-me-box">
                 
-                <img className="profile-picture-image" src={props.imgSrc} alt={props.imgSrc} align="left"/>
+                <img className="profile-picture-image img-fluid" src={props.imgSrc} alt={props.imgSrc} align="left"/>
 
                 <p>My name is Vince Hamill. I am a new grad full stack software engineer with a BS in
                     Computer Science from Texas A&M University with Cum Laude honors. I also have minors 
