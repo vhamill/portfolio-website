@@ -20,8 +20,6 @@ code {
 
 .v-card-image {
   border-radius: 10px;
-  width: 300px;
-  height: 480px;
   box-shadow:0px 0px 3px 1px #ccc;
 }
 
@@ -69,14 +67,10 @@ code {
 }
 
 .about-me-box {
-  /* background-color: rgb(110, 0, 0); */
   background-image: radial-gradient(at bottom left, rgb(211, 0, 0), rgb(189, 28, 0), rgba(116, 13, 0, 0.925));
-  /*border-style: groove;*/
-  margin-left: 150px;
-  margin-right: 150px;
-  padding-top: 40px;
-  padding-bottom: 30px;
-  padding-left: 120px;
-  padding-right: 120px;
   color: white;
+}
+
+.debug {
+  background: yellow;
 }
