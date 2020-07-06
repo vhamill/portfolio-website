@@ -17,8 +17,7 @@ function AboutPage(props){
                 <div>
                     <p>My name is Vince Hamill. I am a new grad full stack software engineer with a BS in
                         Computer Science from Texas A&M University with Cum Laude honors. I also have minors 
-                        in Mathematics and Cybersecurity. Currently, I reside in the Houston, Texas area; 
-                        however I plan to relocate to New York City imminently. I am currently open to all
+                        in Mathematics and Cybersecurity. I am currently open to all
                         software engineering opportunities in the Greater New York City Area.</p>
 
                     <p>I am a motivated and hard-working young software engineer committed to doing exemplary 
